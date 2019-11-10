@@ -27,10 +27,10 @@
 -include vendor/samsung/nobleltejv/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := noblelte,nobleltedd,nobleltedv,nobleltejv,nobleltektt,nobleltelgt,noblelteskt,nobleltezt
+TARGET_OTA_ASSERT_DEVICE := noblelte,nobleltedd,noblelteub
 
 # Include path
-TARGET_SPECIFIC_HEADER_PATH += device/samsung/nobleltejv/include
+TARGET_SPECIFIC_HEADER_PATH += device/samsung/nobleltedd/include
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_nobleltejv_defconfig
