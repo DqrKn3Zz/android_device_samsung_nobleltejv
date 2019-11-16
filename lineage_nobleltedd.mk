@@ -42,6 +42,6 @@ PRODUCT_MODEL := SM-N920G
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=nobleltedd \
     TARGET_DEVICE=noblelte \
-    PRIVATE_BUILD_DESC="nobleltedd-user 7.0 NRD90M N920GDDS5CRH1 release-keys"
+    PRIVATE_BUILD_DESC="nobleltedd-user 7.0 NRD90M N920GDDU3CQE4 release-keys"
 
-BUILD_FINGERPRINT := "samsung/nobleltedd/noblelte:7.0/NRD90M/N920GDDS5CRH1:user/release-keys"
+BUILD_FINGERPRINT := "samsung/nobleltedd/noblelte:7.0/NRD90M/N920GDDU3CQE4:user/release-keys"
