@@ -28,4 +28,4 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, device/samsung/noblelte-common/noblelte-common.mk)
 
 # Also get non-open-source specific aspects if available
-$(call inherit-product-if-exists, vendor/samsung/nobleltejv/nobleltejv-vendor.mk)
+$(call inherit-product-if-exists, vendor/samsung/noblelte/noblelte-vendor.mk)
