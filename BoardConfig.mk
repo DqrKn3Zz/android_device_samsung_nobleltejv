@@ -36,7 +36,7 @@ BOARD_BLUETOOTH_OID_BUILDCFG_INCLUDE_DIR := device/samsung/nobleltedd/bluetooth
 TARGET_SPECIFIC_HEADER_PATH += device/samsung/nobleltedd/include
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_nobleltejv_defconfig
+TARGET_KERNEL_CONFIG := lineageos_noblelte_defconfig
 
 # Radio
 BOARD_MODEM_TYPE := ss333
